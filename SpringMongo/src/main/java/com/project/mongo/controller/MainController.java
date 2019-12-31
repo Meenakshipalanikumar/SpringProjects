@@ -17,7 +17,7 @@ public class MainController {
 	private StudentRepository sturep;
 
 	@GetMapping(value = "/")
-	public List<Aexample> getAllStudents() {
+	public List<Aexample> getAllStudentdetails() {
 		return sturep.findAll();
 	}
 
