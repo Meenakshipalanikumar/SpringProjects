@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("5e00b3cb35747e1dd7b06bea"),
+    "name" : "admin",
+    "degree" : "BE",
+    "age" : 22.0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5e019856273342091a72cc04"),
+    "name" : "radha",
+    "degree" : "BA",
+    "age" : "20"
+}
